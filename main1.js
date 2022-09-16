@@ -31,5 +31,5 @@ function showSlides(n) {
 
 function back()
 {
-    window.location="home.html";
+    window.location="index.html";
 }
